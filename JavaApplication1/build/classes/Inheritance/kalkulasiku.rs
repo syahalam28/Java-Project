@@ -1,2 +1,0 @@
-Inheritance.kalkulasi
-Inheritance.kalkulasiku

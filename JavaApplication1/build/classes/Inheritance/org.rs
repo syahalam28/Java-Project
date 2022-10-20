@@ -1,2 +1,0 @@
-Inheritance.mhs
-Inheritance.org

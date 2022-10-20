@@ -1,6 +1,0 @@
-Inheritance.segitiga
-Inheritance.PersegiPanjang
-Inheritance.main
-Inheritance.Lingkaran
-Inheritance.BangunDatar
-Inheritance.persegi

@@ -1,4 +1,0 @@
-polymorphism.polimorphisme
-polymorphism.BangunDatar
-polymorphism.Balok
-polymorphism.PersegiPanjang

@@ -1,5 +1,0 @@
-polymorphism.Rectangle
-polymorphism.Shape
-polymorphism.Circle
-polymorphism.Triangle
-polymorphism.main

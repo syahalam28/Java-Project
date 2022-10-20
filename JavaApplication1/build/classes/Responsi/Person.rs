@@ -1,2 +1,0 @@
-Responsi.Person
-Responsi.Myclass
